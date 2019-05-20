@@ -1,0 +1,3 @@
+service/SimpleAdmin.Core/obj/Debug/*
+service/SimpleAdmin.Infrastructure/obj/Debug/*
+service/SimpleAdmin/obj/Debug/*
